@@ -7,6 +7,7 @@ it-swarm.cn
 itranslater.com
 kairos.news
 landcareweb.com
+newbedev.com
 qastack.cn
 stackovernet.com
 stealthsettings.com
