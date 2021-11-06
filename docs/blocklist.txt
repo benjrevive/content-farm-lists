@@ -8,6 +8,7 @@ itranslater.com
 kairos.news
 landcareweb.com
 newbedev.com
+playgame.wiki
 qastack.cn
 stackovernet.com
 stealthsettings.com
